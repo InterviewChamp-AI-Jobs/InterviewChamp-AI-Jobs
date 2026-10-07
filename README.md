@@ -35,4 +35,4 @@ Free job lists refreshed all day from employers' own career pages. Every job lin
 - [Online Code Compiler](https://interviewchamp.ai/compiler?utm_source=github&utm_medium=referral&utm_campaign=github_profile): Run code in your browser across popular languages — handy for whiteboard prep and quick scratch work.
 - Practice: [Interview Questions](https://interviewchamp.ai/interview-questions?utm_source=github&utm_medium=referral&utm_campaign=github_profile) · [LeetCode Patterns](https://interviewchamp.ai/leetcode-patterns?utm_source=github&utm_medium=referral&utm_campaign=github_profile) · [System Design Scenarios](https://interviewchamp.ai/system-design-questions?utm_source=github&utm_medium=referral&utm_campaign=github_profile) · [Coding by Company](https://interviewchamp.ai/company-coding?utm_source=github&utm_medium=referral&utm_campaign=github_profile) · [Guides & Playbooks](https://interviewchamp.ai/learn?utm_source=github&utm_medium=referral&utm_campaign=github_profile)
 
-Updated 2026-10-07 06:42 UTC.
+Updated 2026-10-07 09:36 UTC.
