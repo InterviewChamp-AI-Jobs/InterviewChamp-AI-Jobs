@@ -20,7 +20,7 @@ Free job lists refreshed all day from employers' own career pages. Every job lin
 
 - **[AI Interview Copilot](https://interviewchamp.ai/interview-copilot?utm_source=github&utm_medium=referral&utm_campaign=github_profile)**: real-time AI help during live interviews on Zoom, Meet and Teams.
 - **[Jobs AI Autofill](https://interviewchamp.ai/job-application-autofill?utm_source=github&utm_medium=referral&utm_campaign=github_profile)**: a Chrome extension that fills job applications on 46 hiring systems from one saved profile, drafts written answers, and never presses Submit.
-- **[AI Resume Builder](https://interviewchamp.ai/ai-resume-builder?utm_source=github&utm_medium=referral&utm_campaign=github_profile)**: a match score against any job post, and one-click tailored copies that never change employers, titles or dates.
+- **[AI Resume Builder](https://interviewchamp.ai/ai-resume-builder?utm_source=github&utm_medium=referral&utm_campaign=github_profile)**: a match score against any job post, and one-click tailored copies that never change employers or dates, or claim a title you didn't hold.
 - **[Mock Interview](https://interviewchamp.ai/mock-interview?utm_source=github&utm_medium=referral&utm_campaign=github_profile)**: practice with a voice AI interviewer that has read your resume.
 - **[AI Job Search](https://interviewchamp.ai/ai-job-search?utm_source=github&utm_medium=referral&utm_campaign=github_profile)**: every live job with a match score against your resume, free.
 
@@ -35,4 +35,4 @@ Free job lists refreshed all day from employers' own career pages. Every job lin
 - [Online Code Compiler](https://interviewchamp.ai/compiler?utm_source=github&utm_medium=referral&utm_campaign=github_profile): Run code in your browser across popular languages — handy for whiteboard prep and quick scratch work.
 - Practice: [Interview Questions](https://interviewchamp.ai/interview-questions?utm_source=github&utm_medium=referral&utm_campaign=github_profile) · [LeetCode Patterns](https://interviewchamp.ai/leetcode-patterns?utm_source=github&utm_medium=referral&utm_campaign=github_profile) · [System Design Scenarios](https://interviewchamp.ai/system-design-questions?utm_source=github&utm_medium=referral&utm_campaign=github_profile) · [Coding by Company](https://interviewchamp.ai/company-coding?utm_source=github&utm_medium=referral&utm_campaign=github_profile) · [Guides & Playbooks](https://interviewchamp.ai/learn?utm_source=github&utm_medium=referral&utm_campaign=github_profile)
 
-Updated 2026-10-16 15:52 UTC.
+Updated 2026-10-16 18:57 UTC.
